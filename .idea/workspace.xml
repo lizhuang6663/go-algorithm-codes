@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4101a3fe-9b7a-4f88-a2d2-3400900e4507" name="Changes" comment="Changes" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file:///usr/local/go1.22.5" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2bUfcQZpq4qpfQO6dznRyNLKRZR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultGoTemplateProperty": "Go File",
+    "Go 构建.go build algorithm.executor": "Run",
+    "Go 构建.go build algorithm/LeetCode.executor": "Run",
+    "Go 构建.go build algorithm/LeetCode/Binary_practice.executor": "Run",
+    "Go 构建.go build algorithm/LeetCode/GraphTheory/union_find.executor": "Run",
+    "Go 构建.go build algorithm/LeetCode/array_and_hash.executor": "Run",
+    "Go 构建.go build algorithm/LeetCode/backtrack.executor": "Run",
+    "Go 构建.go build algorithm/LeetCode/binary.executor": "Run",
+    "Go 构建.go build algorithm/LeetCode/binary_practice.executor": "Run",
+    "Go 构建.go build algorithm/LeetCode/binary_search.executor": "Run",
+    "Go 构建.go build algorithm/LeetCode/demo.executor": "Debug",
+    "Go 构建.go build algorithm/LeetCode/dfs_bfs.executor": "Run",
+    "Go 构建.go build algorithm/LeetCode/differential_array.executor": "Run",
+    "Go 构建.go build algorithm/LeetCode/double_pointer.executor": "Debug",
+    "Go 构建.go build algorithm/LeetCode/dynamic_program.executor": "Run",
+    "Go 构建.go build algorithm/LeetCode/linkedList.executor": "Debug",
+    "Go 构建.go build algorithm/LeetCode/main.executor": "Run",
+    "Go 构建.go build algorithm/LeetCode/maths.executor": "Run",
+    "Go 构建.go build algorithm/LeetCode/maths_and_skill.executor": "Run",
+    "Go 构建.go build algorithm/LeetCode/program_0to1.executor": "Run",
+    "Go 构建.go build algorithm/LeetCode/sign_in.executor": "Run",
+    "Go 构建.go build algorithm/LeetCode/slide_window.executor": "Run",
+    "Go 构建.go build algorithm/LeetCode/string_practice.executor": "Run",
+    "Go 构建.go build algorithm/LeetCode/weekly_race.executor": "Run",
+    "Go 构建.go build algorithm/LeetCode/weekly_race_425.executor": "Run",
+    "Go 构建.go build algorithm/demo.executor": "Run",
+    "Go 构建.go build algorithm/doubao.executor": "Run",
+    "Go 构建.go build algorithm/力扣/二进制.executor": "Run",
+    "Go 构建.go build algorithm/洛谷.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.automatic.dependencies.download": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "go.import.settings.migrated": "true",
+    "last_opened_file_path": "/Users/lizhuang/go/src/algorithm",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/LeetCode/array_and_hash" />
+      <recent name="$PROJECT_DIR$/LeetCode/GraphTheory" />
+      <recent name="$PROJECT_DIR$/LeetCode/binary_search" />
+      <recent name="$PROJECT_DIR$/LeetCode/stack" />
+      <recent name="$PROJECT_DIR$/LeetCode/binary_tree" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go 构建.go build algorithm/LeetCode/main">
+    <configuration name="go build algorithm/LeetCode/GraphTheory/union_find" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="algorithm/LeetCode/GraphTheory/union_find" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/LeetCode/GraphTheory/union_find/P3493属性图.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build algorithm/LeetCode/array_and_hash" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="algorithm/LeetCode/array_and_hash" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/LeetCode/array_and_hash/P80删除有序数组中的重复项II.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build algorithm/LeetCode/linkedList" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="algorithm/LeetCode/linkedList" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/LeetCode/linkedList/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build algorithm/LeetCode/main" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="algorithm/LeetCode/main" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/LeetCode/main/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build algorithm/LeetCode/maths_and_skill" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="algorithm/LeetCode/maths_and_skill" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/LeetCode/maths_and_skill/LCR135报数.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go 构建.go build algorithm/LeetCode/main" />
+        <item itemvalue="Go 构建.go build algorithm/LeetCode/GraphTheory/union_find" />
+        <item itemvalue="Go 构建.go build algorithm/LeetCode/maths_and_skill" />
+        <item itemvalue="Go 构建.go build algorithm/LeetCode/array_and_hash" />
+        <item itemvalue="Go 构建.go build algorithm/LeetCode/linkedList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-gosdk-5df93f7ad4aa-dfc284eb1eb8-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-242.20224.306" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-GO-242.20224.306" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/algorithm$go_build_algorithm_LeetCode_array_and_hash.out" NAME="go build algorithm/LeetCode/array_and_hash 覆盖结果" MODIFIED="1742528219117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/algorithm$go_build_algorithm_LeetCode_main.out" NAME="go build algorithm/LeetCode/main 覆盖结果" MODIFIED="1733831387337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
